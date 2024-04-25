@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 # 💫 About Me:
-👨‍🎨 I'm currently working on... Planning my next project (watch this space).<br>
-👯 I'm looking to collaborate with... new and experienced coders to build exciting projects.<br>
+👨‍🎨 I'm currently working planning my next project (watch this space).<br>
+👯 I'm looking to collaborate with both new and experienced coders to build exciting real world projects.<br>
 🌱 I'm currently learning C#<br>
 💬 Ask me about HTML, CSS, JavaScript & Front-end web development & design<br>
 
